@@ -1,0 +1,2 @@
+Prefix plugins/BoxCox/example/
+Plugin BoxCox inputfile parameters.txt outputfile none
