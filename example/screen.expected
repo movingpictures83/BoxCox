@@ -23,8 +23,6 @@
 *                                                                                 *
 ***********************************************************************************
 [PluMA] Running Plugin: BoxCox
-Loading required package: ggplot2
-Loading required package: lattice
 Created from 264 samples and 260 variables
 
 Pre-processing:
@@ -35,6 +33,3 @@ Lambda estimates for Box-Cox transformation:
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
 -2.0000  0.1000  0.4500  0.4719  0.9000  2.0000 
 
-Warning message:
-In predict.BoxCoxTrans(object$bc[[i]], newdata[, i]) :
-  newdata should have values > 0
